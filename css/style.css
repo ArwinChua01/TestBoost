@@ -108,7 +108,14 @@ a{
   text-decoration: none;
 }
 
+@media (max-width: 600px){
 
+.logo1{
+  height: 50%;
+  width: 90%;
+}
+
+}
 
 
 
