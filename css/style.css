@@ -1,10 +1,14 @@
 *{
 	margin: 0px;
 	padding: 0px;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 	box-sizing: border-box;
 }
 
+p{
+
+  text-align: justify;
+}
 
 @font-face {
 	font-family: 'Helvetica55Roman';
@@ -22,6 +26,8 @@ a:hover{
 
 .bg-dark{
   background: black !important;
+  
+  
 }
 
 .yellow{
